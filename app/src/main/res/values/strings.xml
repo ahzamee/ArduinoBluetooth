@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Arduino Bluetooth</string>
+    <string name="app_description">Arduino bluetooth application is for to connect with arduino bluetooth module to send command.</string>
+</resources>
